@@ -1,0 +1,93 @@
+div{
+    text-align: center;
+    border: 1px solid;
+ margin-left: 70vh;
+ margin-right: 70vh;
+ background-color: #040b2a;
+ border-radius: 30px;
+ height: 5vh;
+ word-spacing: 6vh;
+ align-items: center;
+ justify-content: center;
+}
+.div a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+   font-size: 20px;
+}
+.div nav{
+    margin-top: 1vh;
+}
+.div a:hover{
+    text-decoration: underline;
+  color:gold;
+    cursor: pointer;
+}
+.div a:active{
+    background-attachment: fixed;
+    background-color: aliceblue;
+}
+
+.diva{
+    width: 100%;
+text-align: center;
+margin-top: 300px;
+}
+.body{
+ background-color: #000000;
+}
+.h{
+
+    font-size: 60px;
+    margin-left: 9vh;
+    margin-top: 15vh;
+    margin-bottom: 10px;
+
+}
+.body{
+  background-color: #f0ffff;
+        }
+.h2{
+    font-size: 30px;
+    margin-left: 10vh;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    color: brown;
+}
+
+.p{
+    font-size: 20px;
+    margin-left: 10vh;
+    margin-top: 10px;
+    margin-bottom:20px;
+    word-wrap: 22px;
+}
+.img{
+    height: 50vh;
+    width: 90%;
+    margin-left: 10vh;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border-color: #f0ffff;
+    display: flex;
+    gap: 30px;
+
+}
+.img1{
+  height: 40vh;
+  border-radius: 20px;
+}
+.img2{
+    height: 40vh;
+    border-radius: 20px;
+  }
+
+  .img3{
+    height: 40vh;
+    border-radius: 20px;
+  }
+  .img4{
+    height: 40vh;
+    border-radius: 20px;
+  }

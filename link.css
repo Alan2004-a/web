@@ -1,0 +1,24 @@
+.a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+   margin-left: 2%;
+   font-size: 20px;
+}
+.a:hover{
+    text-decoration: underline;
+  color:gold;
+    cursor: pointer;
+}
+.a:active{
+    background-attachment: fixed;
+    background-color: aliceblue;
+}
+
+.diva{
+    width: 100%;
+text-align: center;
+margin-top: 300px;
+}
+.body{
+ background-color: #000000;
+}

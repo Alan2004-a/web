@@ -1,0 +1,38 @@
+.div{
+    width: 50%;
+    margin-left: 50px;
+    margin-bottom: 40px;
+}
+.body{
+    background-color: #f0f8ff;
+}
+.h1{
+    margin-left: 20px;
+    border: 1px solid;
+    background-color:rgb(0, 1, 1);
+    color: aliceblue;
+    width: 400px;
+}
+.div label{
+    margin-left: 20px;
+    color: rgb(0, 0, 0);
+}
+.div input{
+    margin-left: 20px;
+}
+.main{
+    display: flex;
+}
+.right{
+    width: 80%;
+    margin-top: 190px;
+
+}
+.back{
+    margin-left: 675px;
+    width: 5%;
+    word-spacing: 2px;
+    background-color: rgb(0, 0, 0);
+    height: 30px;
+    color: white;
+ }

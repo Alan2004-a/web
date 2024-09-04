@@ -1,0 +1,34 @@
+    .log{
+        background-color: #fdfdfd;
+        padding: 1.5rem;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 100%;
+      width: 450px;
+      
+    }
+  .body{
+    background-color: #aea9a9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+  }
+.log h1{
+    margin-left: 160px;
+}
+.log input{
+    margin-left: 120px;
+    height: 25px;
+    border-radius: 10px;
+    width: 200px;
+}
+
+.log h3{
+    margin-left: 80px;
+}
+.body{
+    background: linear-gradient();
+}
+
